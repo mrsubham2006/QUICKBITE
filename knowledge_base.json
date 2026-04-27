@@ -1,0 +1,49 @@
+{
+  "website_info": {
+    "name": "QuickBite",
+    "tagline": "Faster than your hunger!",
+    "features": [
+      "Food Delivery from top restaurants",
+      "Dineout Table Reservations",
+      "QuickBite Gold: Zero delivery fees and exclusive discounts",
+      "QuickBite Coins: Loyalty points redeemable on orders (Start with 250 coins)",
+      "Real-time Order Tracking",
+      "Dual Mode: Delivery vs Dineout",
+      "Customizable items (portion size, spice level, extras)"
+    ],
+    "offers": [
+      "Up to 60% OFF on Delivery",
+      "Up to 50% OFF on Dineout",
+      "Join QuickBite Gold for more savings"
+    ]
+  },
+  "delivery_restaurants": [
+    { "name": "The Burger Loft", "rating": 4.8, "time": "20-25 mins", "cuisines": "Gourmet Burgers, Sides", "price": "₹250 for one" },
+    { "name": "Artisan Pizza Co", "rating": 4.6, "time": "30-35 mins", "cuisines": "Woodfired Pizza, Italian", "price": "₹400 for one" },
+    { "name": "Velvet Waffles", "rating": 4.9, "time": "15 mins", "cuisines": "Belgian Waffles, Cafe", "price": "₹200 for one" },
+    { "name": "Royal Biryani House", "rating": 4.7, "time": "40 mins", "cuisines": "Hyderabadi, Mughlai", "price": "₹450 for one" },
+    { "name": "Sushi Sensation", "rating": 4.5, "time": "35 mins", "cuisines": "Japanese, Sushi, Seafood", "price": "₹600 for one" },
+    { "name": "Green Garden Salad", "rating": 4.4, "time": "20 mins", "cuisines": "Salads, Healthy, Vegan", "price": "₹300 for one" },
+    { "name": "Delhi Chaat Corner", "rating": 4.3, "time": "15 mins", "cuisines": "Street Food, North Indian", "price": "₹150 for one" },
+    { "name": "Wok on Fire", "rating": 4.6, "time": "25 mins", "cuisines": "Chinese, Thai, Pan-Asian", "price": "₹350 for one" },
+    { "name": "The Pasta Project", "rating": 4.7, "time": "30 mins", "cuisines": "Italian, Pasta, Desserts", "price": "₹450 for one" },
+    { "name": "Southern Spice", "rating": 4.8, "time": "25 mins", "cuisines": "South Indian, Kerala, Tamil", "price": "₹250 for one" },
+    { "name": "Steakhouse Prime", "rating": 4.9, "time": "45 mins", "cuisines": "American, Steak, Grill", "price": "₹800 for one" },
+    { "name": "Coffee & Crumbs", "rating": 4.4, "time": "15 mins", "cuisines": "Bakery, Coffee, Breakfast", "price": "₹200 for one" }
+  ],
+  "dineout_restaurants": [
+    { "name": "The Crystal Lounge", "rating": 4.9, "type": "Fine Dining", "locality": "Skyline Towers", "offer": "Flat 50% OFF", "price": "₹2,500 for two" },
+    { "name": "Empire Rooftop", "rating": 4.8, "type": "Gastro Pub", "locality": "Downtown", "offer": "Buy 1 Get 1 Free", "price": "₹1,800 for two" },
+    { "name": "The Gilded Fork", "rating": 4.9, "type": "Contemporary Indian", "locality": "Heritage Square", "offer": "Complimentary Wine", "price": "₹3,000 for two" },
+    { "name": "Moonlight Terrace", "rating": 4.6, "type": "Romantic Dining", "locality": "West End", "offer": "Candlelight Special", "price": "₹2,200 for two" }
+  ],
+  "menu_categories": [
+    "Pizza", "Burger", "Biryani", "Cake", "Chinese", "Rolls", "South-Indian", "Pasta", "Sushi", "Salads", "Desserts", "Beverages", "Fries", "Sandwich", "Momos", "Tandoori", "North-Indian", "Pav-Bhaji", "Ice-Cream", "Healthy"
+  ],
+  "faq": [
+    { "question": "What is the delivery fee?", "answer": "Standard delivery fee is ₹30, but it is ₹0 for QuickBite Gold members." },
+    { "question": "How long does delivery take?", "answer": "Usually between 15 to 45 minutes depending on the restaurant and distance." },
+    { "question": "How do I earn QuickBite Coins?", "answer": "You earn coins on every order placed through the app." },
+    { "question": "Can I cancel my order?", "answer": "Orders can be cancelled within 1 minute of placement for a full refund." }
+  ]
+}
